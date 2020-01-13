@@ -1,10 +1,10 @@
-#Basic Form With State
+# Basic Form With State
 
-##To Run
+## To Run
 This project uses nodejs and npm
 
-##Install dependencies
+## Install dependencies
 ```npm install```
 
-##Run project
+## Run project
 ```expo start```
